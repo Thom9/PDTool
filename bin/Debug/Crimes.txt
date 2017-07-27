@@ -1,0 +1,97 @@
+﻿Illegal Parking
+Illegal Shortcut
+Unlawful Hydraulics
+Unlawful NOS
+Reckless Driving
+Driving without due care and attention
+Failure to Yield
+Failure to accept a ticket
+Failure to provide valid registration
+Failure to provide a driver's license
+Evading a police officer in a vehicle
+Failure to pay a ticket on time (2 weeks)
+Attempted Grand Theft Auto
+Driving under the influence
+Hit and Run
+Driving while suspended
+Street Racing
+Grand Theft Auto
+Vehicular Assault
+Loitering on Private/Government Property
+Trespassing
+Indecent Exposure
+Vandalism
+Affray
+Resisting Arrest
+Evading a police officer on foot
+Disorderly Conduct
+Aiding and Abetting - Infractions
+Unlawful Possession of a Melee Weapon
+Soliciting of a Melee Weapon
+Unlawful Possession of a Low Caliber Weapon - Semi Auto
+Unlawful Possession of a Low Caliber - Full Auto
+Brandishing a Firearm
+Failure to provide valid identification
+Possession of Counterfeit Documentation
+Possession of Narcotics
+Soliciting Low Caliber Weapons
+Unlawful Possession of Silenced Low Caliber Weapon
+Soliciting Low Calbier Silenced Weapons
+Soliciting Illegal Body Armour
+Impersonating an LEO
+Obstruction of Justice
+Conspiracy to Commit Murder
+Trafficking Melee Weapons
+Trafficking Low Caliber Weapons
+Trafficking Street Body Armour
+Trafficking Standard Body Armour
+Trafficking Narcotics
+Trafficking Harassment
+Unlawful Discharge of a Firearm - Single Fire
+Unlawful Discharge of a Firearm - Multiple/Rapid Fire
+Public Endangerment
+Fraud
+Lying to an LEO in function
+Aiding and Abetting - Misdemeanors
+Trafficking/Production of Counterfeit Documentation
+Wasting Police Time (misuse of 911)
+Trafficking Materials - to be amended on launch if htere are different material types
+Trafficking High Caliber Weapons
+Trafficking Military Grade Body Armour
+Unlawful Possession of a High Caliber Firearm
+Unlawful Possession of a Desert Eagle
+Soliciting High Caliber Weapons
+Manslaughter
+Accessory to Murder
+Attempted Murder
+Attempted Murder of an LEO
+Accomplice to Murder
+Instigating Public Anarchy
+Racketeering
+Kidnapping
+Kidnapping of an LEO
+Attempted Robbery
+Robbery
+Armed Robbery
+Breaking and Entering/Burglary
+Illegal Gambling
+Bribery
+Assault
+Assault of an LEO
+Battery
+Battery of an LEO
+Battery with a deadly weapon
+Battery with a deadly weapon against an LEO
+Extortion
+Scamming
+Arson
+Aiding and Abetting a Felony/Capital Offense
+Harboring a Fugitive
+Possession of Explosives
+Conspiracy to Commit Terrorism
+Domestic Terrorism
+Successful Murder
+Successful Murder of an LEO
+Mass Murder
+Corruption
+Piracy

@@ -1,0 +1,44 @@
+[CENTER][FONT=Arial][IMG]http://i.imgur.com/jUIyIJs.png[/IMG][/FONT]
+[B][FONT=Arial]Criminal Resources Department[/FONT][/B][/CENTER]
+[LEFT][FONT=Arial]
+[SIZE=4]
+[B][U]Section 1 - Suspect Information[/U][/B][/SIZE]
+[SIZE=3]
+[B]Forename[/B]:
+[B]Surname[/B]:
+
+[B]Contact Details[/B][/SIZE][/FONT][/LEFT]
+[INDENT][LEFT][FONT=Arial][SIZE=3][B]Phone Number[/B]:
+[B]Home Address[/B]:
+[B]Known Businesses[/B]:
+[/SIZE][/FONT][/LEFT][/INDENT]
+[FONT=Arial][SIZE=3][B]Vehicle Information[/B][/SIZE][/FONT]
+[INDENT][FONT=Arial][SIZE=3][B]Vehicle Type[/B]:
+[B]Vehicle Registration[/B]:
+[B]Vehicle Colour[/B]:
+[/SIZE][/FONT][/INDENT]
+[FONT=Arial][B][SIZE=3]Mugshot[/SIZE][/B][SIZE=3]:[/SIZE]
+
+[B][U][SIZE=4]Section 2 - Crime Information[/SIZE][/U][/B]
+
+[B][SIZE=3]Crimes Committed[/SIZE][/B][SIZE=3]:[/SIZE]
+
+[B][SIZE=3]License Strikes Issued[/SIZE][/B][SIZE=3]:[/SIZE]
+
+[B][SIZE=3]Items Confiscated[/SIZE][/B][SIZE=3]:[/SIZE]
+
+[B][SIZE=3]Vehicle(s) Impounded[/SIZE][/B][SIZE=3]:[/SIZE]
+
+[B][U][SIZE=4]Section 3 - Arrest Information[/SIZE][/U][/B]
+
+[SIZE=3][B]Arresting Officer(s)[/B]:
+
+[B]Cruiser Number[/B]:
+
+[B]Summary of events[/B]:
+
+[B]Time and Date[/B]: Time - YYYY/MM/DD
+
+[B]Associated Reports[/B]:
+
+[B]Additional Notes[/B]:[/SIZE][/FONT]
